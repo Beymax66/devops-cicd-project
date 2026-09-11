@@ -41,7 +41,7 @@ app.get("/", (req, res) => {
                     Application is running successfully ✅
                 </p>
 
-                <p>Version: 1.0.0</p>
+                <p>Version: 2.0.0</p>
                 <p>Environment: AWS EC2</p>
                 <p>Deployment: GitHub Actions + Docker</p>
             </div>
